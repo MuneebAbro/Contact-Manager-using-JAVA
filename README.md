@@ -20,7 +20,7 @@ This project is a simple Contact Manager application implemented in Java using a
 
 Upon running the application, you will see the following menu:
 
-![Screenshot](dsa.png)
+![Screenshot](DSA.png)
 
 ### Options
 - Add Contact: Prompts for a contact name and phone number, then adds the contact to the manager.
