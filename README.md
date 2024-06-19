@@ -42,6 +42,16 @@ The User Interface module presents users with options to add, delete, search, an
 - Search Contact: Allows the user to search for contacts by name or phone number and displays matching results.
 - Display Contacts: Retrieves and displays all contacts stored in the list.
 
+## Overall Time Complexity Analysis:
+
+- Average Case:
+  
+  𝑂(log⁡ 𝑛) for insert, search, and delete operations due to the balanced BST properties.
+
+- Display All Contacts:
+  
+  𝑂log(n) due to the need to output all contacts.
+
 ## Conclusion
 
 The Contact Manager application provides an effective solution for managing contacts, leveraging Java's robust capabilities. Future work will focus on enhancing features, such as integrating cloud storage and adding support for additional data fields.
