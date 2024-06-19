@@ -24,7 +24,7 @@ Upon running the application, you will see the following menu:
 
 ## Graph
 
-![graph](Digrapg.gv.png)
+![graph](Digraph.gv.png)
 
 ### Options
 - Add Contact: Prompts for a contact name and phone number, then adds the contact to the manager.
