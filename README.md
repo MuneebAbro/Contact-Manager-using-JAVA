@@ -50,7 +50,7 @@ The User Interface module presents users with options to add, delete, search, an
 
 - Display All Contacts:
   
-  𝑂log(n) due to the need to output all contacts.
+  𝑂(n) due to the need to output all contacts.
 
 ## Conclusion
 
