@@ -22,6 +22,10 @@ Upon running the application, you will see the following menu:
 
 ![Screenshot](DSA.png)
 
+## Graph
+
+![graph](digrapg.gv.png)
+
 ### Options
 - Add Contact: Prompts for a contact name and phone number, then adds the contact to the manager.
 - Search Contact: Prompts for a contact name, then searches and displays the contact if found.
